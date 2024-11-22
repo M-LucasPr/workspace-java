@@ -29,7 +29,7 @@ Java é uma linguagem de programação de alto nível, orientada a objetos, dese
 
 https://www.w3schools.com
 ### 🎬 Videos
-
+https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=1
 
 ### 👇🏻 Repositorios
 https://github.com/freeCodeCamp/freeCodeCamp
